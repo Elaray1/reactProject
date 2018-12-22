@@ -1,0 +1,76 @@
+.subscriber-image{
+  width: 200px;
+  height: 200px;
+  border: 3px solid #8a9597;
+}
+.description{
+  font-size: 20px;
+  padding-top: 20px;
+}
+.card{
+  margin-bottom: 30px;
+}
+.edding-button{
+  margin-right: 15%;
+}
+.edding-textarea{
+  margin-top: 20px;
+}
+.edding-img{
+  display: flex;
+}
+.edding-img-img{
+  margin-left: 10px;
+  width: 243px;
+  padding: 0.375rem 0.75rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+.edding-img-img:focus{
+  border-color: #80bdff;
+  box-shadow: 0px 0px 0px 0.2rem rgba(0,123,255,0.25);
+}
+.characteristic{
+  margin-top: 20px;
+  font-size: 17px;
+}
+.mark1 {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.votes {
+  height: 25px;
+  width: 35px;
+}
+.voting-button{
+  margin-left: 10%;
+}
+.alert-info{
+  margin-top: 20px;
+  padding: 5px 15px;
+  text-align: center;
+}
+.btn-outline-secondary-comments{
+  margin-left: 40px;
+}
+.btn-outline-success-comments{
+  margin-left: 20%;
+}
+.new-comment-ta {
+  margin-top: 30px;
+}
+.btn-outline-dark-newComment{
+  margin-left: 33%;
+}
+.btn-outline-primary-comments {
+  margin-left: 33%;
+}
+.comment-form{
+  margin-top: 20px;
+}
+.space-right{
+  margin-right: 10px;
+}
+.space-left{
+  margin-left: 10px;
+}

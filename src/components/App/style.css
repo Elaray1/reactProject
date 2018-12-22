@@ -1,0 +1,11 @@
+.jumbotron{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  border: 4px double black;
+}
+.container{
+  font-family: 'Exo 2', sans-serif;
+}
+.social-network{
+  font-size: 30px;
+}

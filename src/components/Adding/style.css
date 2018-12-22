@@ -1,0 +1,32 @@
+.btn {
+  margin-top: 20px;
+}
+.custom-form{
+  padding: 30px 100px;
+
+}
+.error-border{
+  margin-top: 25px;
+}
+.span-error-border{
+  padding: 10px 20px;
+}
+.alert-danger {
+  text-align: center;
+}
+.radio-gender{
+  margin: 15px 0px;
+}
+.radio-gender-label{
+  margin-left: 5px;
+  margin-right: 10px;
+}
+.sort-title{
+  text-align: center;
+}
+.sort-title2{
+  margin-bottom: 20px;
+}
+.sort-button{
+  margin-top: 50px;
+}
